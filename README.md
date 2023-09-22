@@ -84,7 +84,7 @@ This work is published under [MIT License][license].
 [jekyllrb]: https://jekyllrb.com/
 [bootstrap]: https://getbootstrap.com/
 [icons]: https://fontawesome.com/
-[image]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
+[image]: https://files.slack.com/files-tmb/T05TC7LJEBX-F05TFNQQQDR-a90bd57e34/__________720.png
 [demo]: https://cotes2020.github.io/chirpy-demo/
 [wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
 [contribute-guide]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md

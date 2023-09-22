@@ -695,7 +695,7 @@ mjx-container {
 $sidebar-display: 'sidebar-display';
 $btn-border-width: 3px;
 $btn-mb: 0.5rem;
-
+/* 왼쪽 사이드바 */
 #sidebar {
   @include pl-pr(0);
 
@@ -753,7 +753,7 @@ $btn-mb: 0.5rem;
     padding-right: 1.25rem;
     width: 100%;
   }
-
+/* main title(타이틀에 대한 css) */
   .site-title {
     font-family: inherit;
     font-weight: 900;
@@ -770,7 +770,7 @@ $btn-mb: 0.5rem;
       color: var(--site-title-color);
     }
   }
-
+/* sub title (서브 타이틀에 대한 css)*/
   .site-subtitle {
     font-size: 95%;
     color: var(--site-subtitle-color);
